@@ -18,11 +18,11 @@ li, a, button {
 header {
 	display: flex;
 	justify-content : space-between;
-	align-items: center;	
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
 	background-color: white;
+	align-items: center;
 }
 
 nav {
@@ -36,7 +36,7 @@ h1 {
 }
 
 h3 {
-	font-size: 33px;
+	font-size: 32px;
 	color: white;
 }
 
